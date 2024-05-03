@@ -1,5 +1,7 @@
 # [Documentation](https://reglue4js.github.io)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+
 Reglue packages provide an enjoyable, expressive elegant syntax for developing applications.
 
 > 👉 **Note:**&ensp;This repository contains documentation for packages written in the JavaScript programming language, published at&ensp;[Reglue JS](https://github.com/reglue4js){: translate="no"}
@@ -11,6 +13,5 @@ Reglue packages provide an enjoyable, expressive elegant syntax for developing a
 
 ## <img height="20" width="20" src="https://unpkg.com/simple-icons/icons/javascript.svg" />&ensp;Application Listing
 
-## ![JavaScript](https://unpkg.com/simple-icons/icons/javascript.svg 'JavaScript'){: height="20" width="20"}&ensp;Application Listing
-
-## ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript 'JavaScript')&ensp;Application Listing
+[//]: # '## ![JavaScript](https://unpkg.com/simple-icons/icons/javascript.svg){: height="20" width="20"} Application Listing'
+[//]: # '## ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) Application Listing'
