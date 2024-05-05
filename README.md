@@ -11,7 +11,8 @@ Reglue packages provide an enjoyable, expressive elegant syntax for developing a
 1.  [Filesystem](https://reglue4js.github.io/filesystem){: translate="no"}
 1.  [Stringable](https://reglue4js.github.io/stringable){: translate="no"}
 
-## <img height="20" width="20" src="https://unpkg.com/simple-icons/icons/javascript.svg" />&ensp;Application Listing
+## 🗳&ensp;Application Listing
 
+[//]: # '## <img height="20" width="20" src="https://unpkg.com/simple-icons/icons/javascript.svg" /> Application Listing'
 [//]: # '## ![JavaScript](https://unpkg.com/simple-icons/icons/javascript.svg){: height="20" width="20"} Application Listing'
 [//]: # '## ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) Application Listing'
